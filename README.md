@@ -1,7 +1,6 @@
 # 모두의 프롬프트
 #### 주니어 개발자를 위한 피드백 기반 프롬프트 실력 향상 서비스
 
- **https://lets.promptpractice.run/**
 
 <img src="docs/screenshots/00-hero.png" alt="사진 설명" style="height: 500px; object-fit: cover; object-position: top;">
 
